@@ -1,0 +1,4 @@
+**Svar:**
+
+1. Vattenfallsmodellen och agil metodik skiljer sig åt i hur arbetet planeras och genomförs. I vattenfallsmodellen följer man en linjär process där projektet delas in i tydliga steg som krav, design, utveckling, test och leverans. Varje steg måste vara helt klart innan nästa kan börja. Därför passar modellen bäst när man redan från början vet exakt vad som ska göras och när kraven inte kommer att förändras. Agil metodik fungerar på ett annat sätt, här delas arbetet upp i små delar som genomförs steg för steg. Under hela processen samarbetar teamet nära med kunden, och det finns möjlighet att justera och ändra saker under arbetets gång. Detta gör den agila metodiken särskilt användbar i projekt där behoven kan ändras snabbt, till exempel inom mjukvaruutveckling eller apputveckling.
+
